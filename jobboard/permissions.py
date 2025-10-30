@@ -1,4 +1,3 @@
-# jobboard/permissions.py
 from rest_framework import permissions
 
 class IsCompanyOwner(permissions.BasePermission):
